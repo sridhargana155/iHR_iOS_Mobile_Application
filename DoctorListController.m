@@ -4,9 +4,6 @@
 //  CourseName: CSE651 - MobileApplicationProgramming
 //  Team Members: Dhivya Narayanan, Ankita Kashyap, Sridhar Ganapathy
 //  Description: This File displays all the doctor's contact stored in the database for that user in the tableview
-//  Created by Dhivya Narayanan on 12/3/15.
-//  Copyright (c) 2015 Dhivya Narayanan. All rights reserved.
-//
 
 #import <Foundation/Foundation.h>
 #import "DoctorListController.h"
