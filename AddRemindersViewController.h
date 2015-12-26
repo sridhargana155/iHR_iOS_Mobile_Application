@@ -4,9 +4,6 @@
 //  CourseName: CSE651 - MobileApplicationProgramming
 //  Team Members: Dhivya Narayanan, Ankita Kashyap, Sridhar Ganapathy
 //  Description: This File  add remainders to the app and sends notification to the user during due date and time
-////  Created by Ankita Kashyap on 12/9/15.
-//  Copyright © 2015 Ankita Kashyap. All rights reserved.
-//
 
 #import <UIKit/UIKit.h>
 
