@@ -2,7 +2,7 @@
 //  Name of the file:DoctorDetailController.m
 //  Name of the App: iHR
 //  CourseName: CSE651 - MobileApplicationProgramming
-//  Team Members: Dhivya Narayanan, Ankita Kashyap, Sridhar Ganapathy
+//  Team Members: Sridhar Ganapathy, Dhivya Narayanan, Ankita Kashyap
 //  Description: This File displays the detail of particular doctor and allow you to make a call to that doctor from the app
 
 #import <Foundation/Foundation.h>
