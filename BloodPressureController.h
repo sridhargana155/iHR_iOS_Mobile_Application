@@ -2,9 +2,6 @@
 //  BloodPressureController.h
 //  MyiHR
 //
-//  Created by Dhivya Narayanan on 12/17/15.
-//  Copyright (c) 2015 Dhivya Narayanan. All rights reserved.
-//
 
 #import <UIKit/UIKit.h>
 #import "sqlite3.h"
