@@ -4,9 +4,6 @@
 //  CourseName: CSE651 - MobileApplicationProgramming
 //  Team Members: Dhivya Narayanan, Ankita Kashyap, Sridhar Ganapathy
 //  Description: This File displays the detail of particular doctor and allow you to make a call to that doctor from the app
-//  Created by Dhivya Narayanan on 12/3/15.
-//  Copyright (c) 2015 Dhivya Narayanan. All rights reserved.
-//
 
 #import <Foundation/Foundation.h>
 #import"DoctorDetailController.h"
